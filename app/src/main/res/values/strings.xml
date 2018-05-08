@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">080518_FirstApplication</string>
+    <string name="defaultInput">Hier Text eingeben</string>
+    <string name="defaultButton">Senden</string>
+</resources>
